@@ -1,11 +1,4 @@
 <div align="center">
-
-  <img src="./assets/logo-smart-eletro-vini.png" alt="Smart Eletro Vini — Tecnologia e Soluções" width="760">
-
-  <br><br>
-
-  <img src="./assets/profile-header.svg" alt="Tecnologia, educação e soluções em desenvolvimento aberto" width="100%">
-
   <h3>Tecnologia para vender melhor, aprender sempre e construir soluções úteis.</h3>
 
   <p>
