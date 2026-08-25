@@ -44,7 +44,6 @@
 | --- | --- | --- |
 | [Curso Gratuito de Informática](https://github.com/ViniciusSilva97/curso-informatica) | Ensina fundamentos, investigação computacional e autonomia tecnológica. | 🟢 Publicado e em evolução |
 | [Rental Platform](https://github.com/ViniciusSilva97/rental-platform) | Base de gestão para empresas que alugam ferramentas e equipamentos. | 🟡 Desenvolvimento ativo |
-| [Repair Shop Management](https://github.com/ViniciusSilva97/repair-shop-management) | Sistema offline-first para oficinas de carros, motos e bicicletas. | 🟠 Planejamento técnico |
 | [Realtime Communication Platform](https://github.com/ViniciusSilva97/realtime-communication-platform) | Fundação para comunicação, atendimento e colaboração em tempo real. | 🟠 Fundação inicial |
 | [TaskForge API](https://github.com/ViniciusSilva97/taskforge-api) | API para organização e gerenciamento de tarefas. | 🧪 Laboratório técnico |
 | [Smart Mascots Lab](https://github.com/ViniciusSilva97/smart-mascots-lab) | Protótipos de movimento e comportamento dos mascotes da marca. | 🧪 Laboratório visual |
