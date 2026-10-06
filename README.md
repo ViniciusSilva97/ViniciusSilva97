@@ -44,7 +44,6 @@
 | --- | --- | --- |
 | [Curso Gratuito de Informática](https://github.com/ViniciusSilva97/curso-informatica) | Ensina fundamentos, investigação computacional e autonomia tecnológica. | 🟢 Publicado e em evolução |
 | [Rental Platform](https://github.com/ViniciusSilva97/rental-platform) | Base de gestão para empresas que alugam ferramentas e equipamentos. | 🟡 Desenvolvimento ativo |
-| [Realtime Communication Platform](https://github.com/ViniciusSilva97/realtime-communication-platform) | Fundação para comunicação, atendimento e colaboração em tempo real. | 🟠 Fundação inicial |
 | [TaskForge API](https://github.com/ViniciusSilva97/taskforge-api) | API para organização e gerenciamento de tarefas. | 🧪 Laboratório técnico |
 | [Smart Mascots Lab](https://github.com/ViniciusSilva97/smart-mascots-lab) | Protótipos de movimento e comportamento dos mascotes da marca. | 🧪 Laboratório visual |
 
@@ -65,11 +64,6 @@ problema real → pesquisa → planejamento → protótipo → testes → docume
 - **Educação aberta:** conhecimento compartilhado ajuda clientes e estudantes a tomar
   decisões melhores.
 - **Responsabilidade comercial:** soluções em construção não são apresentadas como prontas.
-
-## Tecnologias presentes no ecossistema
-
-`Python` · `Django` · `FastAPI` · `PostgreSQL` · `Docker` · `Elixir` · `Phoenix` ·
-`TypeScript` · `HTML` · `CSS` · `JavaScript` · `MkDocs` · `GitHub Actions`
 
 ## Desenvolvimento aberto com limites claros
 
