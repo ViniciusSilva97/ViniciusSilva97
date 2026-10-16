@@ -1,15 +1,18 @@
 <div align="center">
-  <h3>Tecnologia para vender melhor, aprender sempre e construir soluções úteis.</h3>
 
-  <p>
-    <a href="https://smarteletrovini.com.br/">Loja</a>
-    ·
-    <a href="https://viniciussilva97.github.io/curso-informatica/">Curso gratuito</a>
-    ·
-    <a href="https://www.instagram.com/smarteletrovini/">Instagram</a>
-    ·
-    <a href="https://github.com/ViniciusSilva97?tab=repositories">Repositórios</a>
-  </p>
+# Curso Gratuito de Informática
+
+### Aprenda informática desde os fundamentos, entenda seu computador e desenvolva autonomia tecnológica.
+
+Conteúdo aberto, prático e em português para estudantes, clientes, profissionais e todas as pessoas que querem usar tecnologia com mais segurança e independência.
+
+[**Começar o curso agora →**](https://viniciussilva97.github.io/curso-informatica/)
+
+[Ver o repositório](https://github.com/ViniciusSilva97/curso-informatica)
+·
+[Smart Eletro Vini](https://smarteletrovini.com.br/)
+·
+[Instagram](https://www.instagram.com/smarteletrovini/)
 
 </div>
 
@@ -18,16 +21,15 @@
 <table>
   <tr>
     <td width="72%" valign="top">
-      <h2>Olá! Este é o laboratório tecnológico da Smart Eletro Vini 🫡</h2>
+      <h2>Olá! Eu sou Vinícius Silva 🫡</h2>
       <p>
-        Aqui reunimos educação gratuita, experimentos, ferramentas internas e sistemas
-        que nascem de problemas reais de pequenos negócios.
+        Uno tecnologia, educação, comércio e contabilidade para construir soluções úteis,
+        documentadas e próximas da realidade dos pequenos negócios.
       </p>
       <p>
-        Nosso objetivo é evoluir junto com clientes, usuários, estudantes e desenvolvedores.
-        Por isso, mostramos o estágio real de cada projeto, documentamos aprendizados e
-        tratamos desenvolvimento como um processo aberto — sem apresentar protótipos como
-        produtos concluídos.
+        A aprovação no Exame de Suficiência do CFC abriu uma nova fase: o desenvolvimento
+        do nosso sistema contábil passa a ser o projeto tecnológico central, enquanto o
+        curso gratuito compartilha o conhecimento adquirido e ajuda mais pessoas a crescer.
       </p>
     </td>
     <td width="28%" align="center" valign="middle">
@@ -38,61 +40,73 @@
   </tr>
 </table>
 
-## O que construímos
+## O que você aprenderá
 
-| Projeto | O que resolve | Situação |
-| --- | --- | --- |
-| [Curso Gratuito de Informática](https://github.com/ViniciusSilva97/curso-informatica) | Ensina fundamentos, investigação computacional e autonomia tecnológica. | 🟢 Publicado e em evolução |
-| [Rental Platform](https://github.com/ViniciusSilva97/rental-platform) | Base de gestão para empresas que alugam ferramentas e equipamentos. | 🟡 Desenvolvimento ativo |
-| [TaskForge API](https://github.com/ViniciusSilva97/taskforge-api) | API para organização e gerenciamento de tarefas. | 🧪 Laboratório técnico |
-| [Smart Mascots Lab](https://github.com/ViniciusSilva97/smart-mascots-lab) | Protótipos de movimento e comportamento dos mascotes da marca. | 🧪 Laboratório visual |
+O curso foi criado para ensinar informática de verdade, sem limitar o aluno a decorar
+botões ou repetir procedimentos. A proposta é compreender como a tecnologia funciona,
+investigar problemas e tomar decisões melhores.
 
-> **Transparência também é tecnologia:** status como “desenvolvimento”, “planejamento” e
-> “laboratório” significam exatamente isso. Recursos, documentação e disponibilidade podem
-> mudar enquanto cada projeto amadurece.
+- fundamentos da informática e funcionamento dos computadores;
+- componentes, periféricos e investigação de hardware;
+- sistemas operacionais, arquivos, programas e drivers;
+- segurança, manutenção e solução de problemas;
+- uso consciente da tecnologia no estudo, no trabalho e nos negócios.
 
-## Nossa forma de trabalhar
+> **O conteúdo principal é gratuito, não exige cadastro e evolui continuamente.**
+
+### [Acessar as aulas publicadas →](https://viniciussilva97.github.io/curso-informatica/)
+
+## Nosso foco atual
+
+| Prioridade | Frente | Direção |
+| ---: | --- | --- |
+| **1** | **Curso Gratuito de Informática** | Publicar aulas claras, práticas e visualmente cuidadas. |
+| **2** | **Sistema contábil interno** | Construir uma base completa para apoiar a rotina real de um escritório e seus clientes. |
+| **3** | **Tema da Smart Eletro Vini** | Evoluir a experiência da loja com foco em periféricos gamer e identidade própria. |
+
+Pesquisas e protótipos anteriores continuam preservados. Eles não são trabalho perdido:
+formam uma base técnica que poderá alimentar, no futuro, um ecossistema no qual sistemas
+comerciais se integrem ao núcleo contábil e reduzam tarefas repetitivas para empresas e
+profissionais.
+
+## Conhecimento que fortalece negócios
+
+Compartilhar conhecimento é parte do projeto. Documentamos decisões, erros, testes e
+aprendizados para ajudar estudantes, profissionais e empreendedores a desenvolver
+autonomia e fortalecer seus negócios no Brasil.
+
+Nossa forma de trabalhar:
 
 ```text
 problema real → pesquisa → planejamento → protótipo → testes → documentação → evolução
 ```
 
-- **Utilidade antes de complexidade:** começamos pelo problema que precisa ser resolvido.
-- **Documentação como parte do produto:** registramos decisões para pessoas iniciantes,
-  profissionais experientes e agentes de IA.
-- **Qualidade incremental:** cada versão deve tornar a próxima mais segura e previsível.
-- **Educação aberta:** conhecimento compartilhado ajuda clientes e estudantes a tomar
-  decisões melhores.
-- **Responsabilidade comercial:** soluções em construção não são apresentadas como prontas.
+- **Utilidade antes de complexidade:** tecnologia deve resolver um problema concreto.
+- **Educação aberta:** entender a ferramenta é tão importante quanto utilizá-la.
+- **Qualidade incremental:** cada entrega prepara uma base mais estável para a próxima.
+- **Integração responsável:** sistemas futuros compartilharão dados por contratos seguros,
+  sem transformar inteligência artificial ou automação em fonte da verdade.
+- **Transparência:** projetos em pesquisa ou desenvolvimento não são apresentados como
+  produtos concluídos.
 
 ## Desenvolvimento aberto com limites claros
 
-Parte do nosso trabalho é pública para compartilhar aprendizado, receber contribuições e
-construir confiança. Projetos comerciais e componentes internos podem permanecer privados
-quando isso protege clientes, dados, segurança ou estratégia de negócio.
+O curso é público porque conhecimento compartilhado amplia oportunidades. Sistemas
+comerciais, dados, integrações e componentes internos podem permanecer privados quando
+isso protege clientes, segurança e estratégia de negócio.
 
-Cada repositório possui seu próprio escopo e seus próprios termos. Antes de copiar,
-modificar, distribuir ou usar comercialmente qualquer código, consulte o arquivo `LICENSE`
-do projeto correspondente.
-
-## Conheça o curso gratuito
-
-O **Curso Gratuito de Informática da Smart Eletro Vini** foi criado para quem quer entender
-o computador, investigar problemas e desenvolver autonomia — sem cadastro e sem cobrança
-pelo conteúdo principal.
-
-### [Começar a aprender agora →](https://viniciussilva97.github.io/curso-informatica/)
+Cada repositório possui escopo e licença próprios. Antes de copiar, modificar,
+redistribuir ou usar comercialmente qualquer código, consulte os termos do projeto
+correspondente.
 
 ---
 
 <div align="center">
 
-  **Smart Eletro Vini — Tecnologia e Soluções**
+**Smart Eletro Vini — Tecnologia, Educação e Soluções**
 
-  Vender tecnologia também é ajudar as pessoas a entendê-la, usá-la e evoluir com ela.
+Vender tecnologia também é ajudar as pessoas a entendê-la, usá-la e evoluir com ela.
 
-  <br>
-
-  <sub>© 2026 Vinícius Silva e Smart Eletro Vini.</sub>
+<sub>© 2026 Vinícius Silva e Smart Eletro Vini.</sub>
 
 </div>
